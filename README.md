@@ -54,7 +54,7 @@ I am working on beginner-to-intermediate level data analysis projects, including
 ---
 
 ## 🔗 Connect with Me
-- 📧 Email: abdlftouarda@gmail.com
+- 📧 Email: abdltifouarda@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/abdelatif-ouarda-790a2b36a
 
 ---
