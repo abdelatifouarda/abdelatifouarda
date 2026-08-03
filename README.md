@@ -109,8 +109,3 @@ Aspiring Data Analyst with hands-on experience building end-to-end analytics sol
 | 💼 **LinkedIn** | [linkedin.com/in/abdelatif-ouarda-790a2b36a](https://www.linkedin.com/in/abdelatif-ouarda-790a2b36a) |
 
 
----
-
-<div align="center">
-<sub>💡 Crafted for clarity · Designed for impact · Updated 2026</sub>
-</div>
