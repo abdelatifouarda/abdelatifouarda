@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdelatif Ouarda 👋
 
-## 🎯 Data Analyst | Python · SQL · Power BI · Machine Learning
+## 🎯 Data Analyst | SQL · Python · Power BI · Machine Learning
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-Aspiring Data Analyst with hands-on experience building end-to-end analytics solutions — from data cleaning and EDA to dashboard development and predictive modeling. I turn raw data into actionable business insights using Python, SQL, PostgreSQL, and Power BI.
+Aspiring Data Analyst with hands-on experience building end-to-end analytics solutions — from data cleaning and EDA to dashboard development and predictive modeling. I turn raw data into actionable business insights using Python, SQL, Post, and Power BI.
 
 > 🎯 **Currently seeking a Data Analyst Internship or Junior Data Analyst role.**
 
